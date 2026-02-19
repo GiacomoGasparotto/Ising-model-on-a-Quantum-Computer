@@ -25,10 +25,4 @@ Starting from a ferromagnetic ground state, the system is driven towards the par
 * `main.ipynb`: The main Jupyter Notebook containing the full pipeline (circuit generation, Qiskit benchmark, MPS simulation, and plotting).
 * `tfim.py`: Python module containing the `TFIMChain` class, which handles the Hamiltonian definition, Trotterized circuit building, and backend execution.
 * `plots/`: Directory containing the generated PDF figures (Entropy step-like growth, 2D Correlation Heatmaps, Scaling benchmarks).
-* `QCReport.pdf`: The final academic report detailing the theoretical background, methodology, and physical interpretation of the results.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/tfim-tensor-networks.git](https://github.com/yourusername/tfim-tensor-networks.git)
-   cd tfim-tensor-networks
+* `REPORT-Gasparotto.pdf`: The final academic report detailing the theoretical background, methodology, and physical interpretation of the results.

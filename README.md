@@ -17,7 +17,7 @@ Starting from a ferromagnetic ground state, the system is driven towards the par
 
 ## Technologies & Libraries
 * **[Qiskit](https://qiskit.org/):** Used for exact statevector simulations to benchmark the Tensor Network approach up to $N=20$ qubits.
-* **[QTeaLeaves / QMatchaTea](https://quantumtealeaves.readthedocs.io/):** Used for the Tensor Network / MPS simulations, dynamic truncation via SVD, and measurement of advanced observables (e.g., bond entropy, correlation matrices).
+* **[QTeaLeaves / QMatchaTea](https://www.quantumtea.it/):** Used for the Tensor Network / MPS simulations, dynamic truncation via SVD, and measurement of advanced observables (e.g., bond entropy, correlation matrices).
 * **NumPy & SciPy:** For numerical operations and sparse matrix exact diagonalization.
 * **Matplotlib:** For rendering heatmap correlations and dynamically scaling observables.
 
